@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 15:42:49 at https://www.hyperframe.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.hyperframe.com/ -O1 "C:\Users\dell\Desktop\barath\con1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:42:51	Warning: 	Note: due to https://www.hyperframe.com remote robots.txt rules, links beginning with these path will be forbidden: /components/, /ie/, /privacy/ (see in the options to disable this)
+15:46:13	Error: 	Exit requested by shell or user
+15:46:14	Warning: 	File not added due to mirror cancel: https://www.hyperframe.com/assets/img/sequence/00-intro/Section1_00145.jpg
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 26 seconds : 341 links scanned, 340 files written (15170069 bytes overall) [14945367 bytes received at 72550 bytes/sec], 425860 bytes transferred using HTTP compression in 4 files, ratio 11%, 43.0 requests per connection
+(1 errors, 2 warnings, 0 messages)
